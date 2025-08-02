@@ -1,0 +1,9 @@
+baseURL = "https://yourusername.github.io/"
+languageCode = "en-us"
+title = "Blindspot"
+theme = "PaperMod"
+pagerSize = 10
+
+[params]
+  description = "Our tagline is Article 19(1)(a)"
+  author = "Blindspot Team"
