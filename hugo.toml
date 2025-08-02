@@ -1,4 +1,4 @@
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://yourusername.github.io/blindspot-hugo/"
 languageCode = "en-us"
 title = "Blindspot"
 theme = "PaperMod"
